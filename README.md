@@ -10,11 +10,11 @@
 **Attention!!! I am not responsible for your actions. The software in itself is not illegal but the way you use it most likely is.**
 
 
-##Overview
+## Overview
 ----------------------------------
 ![Image description](pop.png)
-)
-##Requirements
+
+## Requirements
 ----------------------------------
 - OS Linux with git
 - Ansible 2.8.4
@@ -73,6 +73,6 @@ In this case you just need to comment the Installation role and uncomment the Un
     #- { role: install_popcorntime }
     - { role: uninstall_popcorntime }
 ```
-##Author
+## Author
 ----------------------------------
 - **Amine Kahlaoui**, DevOps engineer
