@@ -1,0 +1,4 @@
+destination_folder: /opt/popcorntime
+name: Popcorn-Time
+version: 0.3.10
+linux_type: 64

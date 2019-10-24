@@ -1,0 +1,14 @@
+- name: Clean /opt
+  file:
+    state: absent
+    path: /opt/popcorntime
+
+- name: Clean /usr/bin
+  file:
+    state: absent
+    path: /usr/bin/Popcorn-Time
+
+- name: Clean launcher
+  file:
+    state: absent
+    path: /usr/share/applications/popcorntime.desktop
