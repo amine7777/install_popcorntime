@@ -7,7 +7,7 @@
 
 **Popcorn Time**, is a multi-platform, free software BitTorrent client that includes an integrated media player. The applications provide a free "alternative" to subscription-based video streaming services such as Netflix.
 
-**Attention!!! I am not responsible for your actions. The software in itself is not illegal but the way you use it most likely is.**
+**Attention!I am not responsible for your actions. The software in itself is not illegal but the way you use it most likely is.**
 
 
 ## Overview
