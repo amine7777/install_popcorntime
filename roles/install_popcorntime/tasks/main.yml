@@ -12,7 +12,7 @@
     remote_src: yes
 
 - name: Creating a shortcut
-  command: sudo ln -sf /opt/popcorntime/Popcorn-Time /usr/bin/Popcorn-Time
+  command: ln -sf /opt/popcorntime/Popcorn-Time /usr/bin/Popcorn-Time
 
 - name: Creat a popcorntime.desktop file
   file:
