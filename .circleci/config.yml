@@ -13,6 +13,7 @@ jobs:
           ssh-keygen -t rsa -f $HOME/.ssh/id_rsa_ansible -q -P ""
           cat ~/.ssh/id_rsa_ansible.pub >> ~/.ssh/authorized_keys
           ansible-playbook deploy_popcorntime.yaml
+          ansible-playbook uninstall_popcorntime.yaml
 workflows:
   version: 2
   build_and_test:
