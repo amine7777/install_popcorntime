@@ -1,4 +1,5 @@
-# Popcorn Time playbook
+# Popcorn Time playbook # Install vagrant [![amine7777](https://circleci.com/gh/amine7777/popcorntime_playbook.svg?style=svg)](https://circleci.com/gh/amine7777/popcorntime_playbook)
+
 ----------------------------------
 
 
