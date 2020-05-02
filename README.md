@@ -1,4 +1,5 @@
-# Popcorn Time playbook
+# Popcorn Time playbook [![amine7777](https://circleci.com/gh/amine7777/popcorntime-playbook.svg?style=svg)](https://circleci.com/gh/amine7777/popcorntime-playbook)
+
 ----------------------------------
 
 
