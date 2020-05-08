@@ -1,4 +1,5 @@
 destination_folder: /opt/popcorntime
 name: Popcorn-Time
-version: 0.4.4
+popcorntime_version: 0.4.4
 linux_type: 64
+popcorntime_download_url: https://mirror02.popcorntime.app/build/{{ name }}-{{ popcorntime_version }}-linux{{ linux_type }}.zip
