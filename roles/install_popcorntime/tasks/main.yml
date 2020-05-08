@@ -7,7 +7,7 @@
 
 - name: Download an popcorntime archive and unarchive it
   unarchive:
-    src: https://get.popcorntime.sh/build/{{ name }}-{{ version }}-Linux-{{ linux_type }}.zip
+    src: "{{ popcorntime_download_url }}"
     dest: /opt/popcorntime
     remote_src: yes
 
