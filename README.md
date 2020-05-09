@@ -18,7 +18,7 @@
 ## Requirements
 ----------------------------------
 - OS Linux with git
-- Ansible 2.8.4
+- Ansible 2.9
 
 
 
