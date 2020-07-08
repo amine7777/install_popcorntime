@@ -1,5 +1,4 @@
 ---
-
 - name: Create a popcontime folder in /opt
   file:
     path: /opt/popcorntime
@@ -11,10 +10,10 @@
     dest: /opt/popcorntime
     remote_src: yes
 
-- name: Creating a shortcut
+- name: Create a shortcut
   command: ln -sf /opt/popcorntime/Popcorn-Time /usr/bin/Popcorn-Time
 
-- name: Creat a popcorntime.desktop file
+- name: Create a popcorntime.desktop file
   file:
     path: /usr/share/applications/popcorntime.desktop
     state: touch
