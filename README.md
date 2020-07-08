@@ -49,7 +49,7 @@ pip install ansible
 Then you need to clone the project and excute the playbook.
 
 ```bash
-git clone https://github.com/amine7777/popcorntime-playbook
+git clone https://github.com/amine7777/install_popcorntime
 cd popcorntime-playbook
 ansible-playbook deploy_popcorntime.yaml
 ```
